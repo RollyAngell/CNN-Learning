@@ -1,0 +1,11 @@
+# Don't track content of these folders
+Projects/P1_Facial_Keypoints/saved_models
+
+Intro CNN with MNIST/cifar-10-temp
+Intro CNN with MNIST/cifar-10-temp/cifar-10-batches-bin
+
+# Compiled source #
+###################
+*.tar.gz
+
+*.bin
